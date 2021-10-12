@@ -1,7 +1,10 @@
+import React from 'react';
+import Dashboard from './components/Dashboard'
+
 function App() {
     return (
         <>
-            <h1>Ready to go</h1>
+            <Dashboard />
         </>
     );
 }
