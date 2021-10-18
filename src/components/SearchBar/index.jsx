@@ -1,9 +1,13 @@
 import React, { useState } from "react";
+import "./style.css";
 
 function SearchBar() {
     return (
         <>
-            <h2>Choose a city</h2>
+            <div className="searchbar">
+                <span>Choose a city</span>
+                <button>Switch</button>
+            </div>
         </>
     );
 }

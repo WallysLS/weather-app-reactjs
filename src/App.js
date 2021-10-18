@@ -1,5 +1,6 @@
 import React from 'react';
-import Dashboard from './components/Dashboard'
+import "./globalStyle.css";
+import Dashboard from './components/Dashboard';
 
 function App() {
     return (
