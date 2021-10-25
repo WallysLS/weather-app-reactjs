@@ -1,3 +1,3 @@
 ## My Weather
 
-This is a simple weath
+This is a simple weather app
